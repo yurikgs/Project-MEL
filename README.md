@@ -1,8 +1,12 @@
 
 ![MEL-Cover](https://user-images.githubusercontent.com/38916533/147879666-8224ef4c-8a46-4b98-bc58-6f437ffc7f09.jpg)
 
-# Project-MEL
-Cripto Token Social
+<!-- MEL symbol on github:
+ ![MEL-symbol-500px-433px](https://user-images.githubusercontent.com/38916533/147883348-a9dd6a8c-2859-4b41-878f-5b653b5ee21e.png)
+ -->
+
+# <img align="center" alt="Solidity" height="35"  src="https://user-images.githubusercontent.com/38916533/147883348-a9dd6a8c-2859-4b41-878f-5b653b5ee21e.png"> Project-MEL
+Cripto Token Social  
 
 ## Tecnologias utilizadas:
 
